@@ -9,16 +9,16 @@ body{background-color: #000000;}
 	#tratamentosweb{width:100%; padding-top: 40px; font-family: 'Open Sans', sans-serif; color: }
 	#tratamentosmob{display: none}
 
-	#logoimg{width:25%; padding-top: 2vh;}
-	#logoyt{width:60px; padding-top: 2vh;}
-	#diegojflucs{font-size:40px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-weight: bold;}
+	#logoimg{width:15%; padding-top: 2vh;}
+	#logoyt{width:50px; padding-top: 2vh;}
+	#diegojflucs{font-size:30px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-weight: bold;}
 	#idsobre {margin-left:64px ;margin-right:64px; }
-	#sobre{font-size:40px; font-family: 'Open Sans', sans-serif; margin-top: 32px; color: #ffffff; margin-left:40px ;margin-right:40px;}
+	#sobre{font-size:26px; font-family: 'Open Sans', sans-serif; margin-top: 32px; color: #ffffff; margin-left:40px ;margin-right:40px;}
 	#consultoria{padding-top: 5vh;padding-bottom: 5vh;}
 
 
 
-	.btn{width: 40%;padding: 1,5vh ;font-family: 'Open Sans', sans-serif; font-size: 32px; color: #000000; border-radius: 5vh; font-weight: bold;}
+	.btn{width: 40%;padding: 1,5vh ;font-family: 'Open Sans', sans-serif; font-size: 24px; color: #000000; border-radius: 5vh; font-weight: bold;}
 	.btn{background: linear-gradient(180deg, rgba(255,255,255,1) 5%, rgba(92,148,168,1) 36%, rgba(192,254,114,1) 75%);}
 	.btn:hover{font-weight: bold; color: #FFFFFF;}
 	.btn:visited{ color: #FFFFFF;}
@@ -34,15 +34,15 @@ body{background-color: #000000;}
 
 	#paragh{text-align: center; font-weight: bold;}
 	#topoimg{width:100%;}
-	#logoimg{width:60%; padding-top: 2vh;}
+	#logoimg{width:50%; padding-top: 2vh;}
 
-	.btn{width: 80%; height: auto ;padding-top: 1.5vh; padding-bottom: 1.5vh;font-family: 'Open Sans', sans-serif; font-size: 20px; border-radius: 2vh;}
+	.btn{width: 70%; height: auto ;padding-top: 1.5vh; padding-bottom: 1.5vh;font-family: 'Open Sans', sans-serif; font-size: 16px; border-radius: 2vh;}
 	
 	.btn:hover{font-weight: bold; color: #FFFFFF;}
 	.btn:visited{ color: #FFFFFF;}
-	#logoyt{width:50px; padding-top: 2vh;}
+	#logoyt{width:40px; padding-top: 2vh;}
 	#consultoria{padding-top: 3vh;padding-bottom: 3vh;}
-	#sobre{font-size:24px;margin-left:16px ;margin-right:16px; margin-top: 20px;}
+	#sobre{font-size:20px;margin-left:16px ;margin-right:16px; margin-top: 20px;}
 
 }
 
