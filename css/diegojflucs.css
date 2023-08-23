@@ -1,0 +1,48 @@
+
+*{margin:0; padding:0; border:none; outline:none; font-weight: 300; box-sizing: border-box; }
+body{background-color: #000000;}
+
+	a:hover{text-decoration: none;}
+
+	nav a {color: #FFFFFF;}
+	#redes{width:100%; display: block;text-align: center}
+	#tratamentosweb{width:100%; padding-top: 40px; font-family: 'Open Sans', sans-serif; color: }
+	#tratamentosmob{display: none}
+
+	#logoimg{width:25%; padding-top: 2vh;}
+	#logoyt{width:60px; padding-top: 2vh;}
+	#diegojflucs{font-size:40px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-weight: bold;}
+	#idsobre {margin-left:64px ;margin-right:64px; }
+	#sobre{font-size:40px; font-family: 'Open Sans', sans-serif; margin-top: 32px; color: #ffffff; margin-left:40px ;margin-right:40px;}
+	#consultoria{padding-top: 5vh;padding-bottom: 5vh;}
+
+
+
+	.btn{width: 40%;padding: 1,5vh ;font-family: 'Open Sans', sans-serif; font-size: 32px; color: #000000; border-radius: 5vh; font-weight: bold;}
+	.btn{background: linear-gradient(180deg, rgba(255,255,255,1) 5%, rgba(92,148,168,1) 36%, rgba(192,254,114,1) 75%);}
+	.btn:hover{font-weight: bold; color: #FFFFFF;}
+	.btn:visited{ color: #FFFFFF;}
+	#ytdiv{display: flex; align-items: center; justify-content: center;}
+
+
+
+@media(max-width:800px){
+	nav a {color: #FFFFFF;}
+	#redes{width:100%; display: block;text-align: center}
+	#tratamentosweb{display: none}
+	#tratamentosmob{width:100%; display: block; padding:0.9em; font-family: 'Open Sans', sans-serif; padding-top: 40px; color:#150E3D;}
+
+	#paragh{text-align: center; font-weight: bold;}
+	#topoimg{width:100%;}
+	#logoimg{width:60%; padding-top: 2vh;}
+
+	.btn{width: 80%; height: auto ;padding-top: 1.5vh; padding-bottom: 1.5vh;font-family: 'Open Sans', sans-serif; font-size: 20px; border-radius: 2vh;}
+	
+	.btn:hover{font-weight: bold; color: #FFFFFF;}
+	.btn:visited{ color: #FFFFFF;}
+	#logoyt{width:50px; padding-top: 2vh;}
+	#consultoria{padding-top: 3vh;padding-bottom: 3vh;}
+	#sobre{font-size:24px;margin-left:16px ;margin-right:16px; margin-top: 20px;}
+
+}
+
